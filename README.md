@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/FOF8kogyNXMnU8aNT7/giphy.gif" width="100"/>
+  <img src="https://gifdb.com/images/high/cute-quby-chan-wave-x4ez6u9oy0mm4yxx.webp" width="300"/>
 </div>
 
 ### Hi there 👋
@@ -7,7 +7,7 @@ I am Zhi Yan and I am currently taking the Data Engineering course at University
 
 ---
 ### :woman_technologist: About Me :
-<img align="right" width="30%" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="right" width="30%" src="https://media.tenor.com/R6zEIJQaUh4AAAAC/we-bare-bears-ice-bear.gif">
 
 - 📆 28/03/2001
 - 👯 I’m currently studying at University Technology Malaysia (UTM)
