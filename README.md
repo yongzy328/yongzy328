@@ -19,12 +19,20 @@ I am Zhi Yan and I am currently taking the Data Engineering course at University
 ---
 
 ### 🏅 Projects :
+#### High Performance Data Processing: 
 - 💀 [Death by state, sex and age group Malaysia 2001-2018](https://github.com/drshahizan/Python_EDA/tree/main/Malaysia%20EDA/Potato)
 - ✈ [Flight Delays and Cancellations at 2015](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%201/potato)
 - 🏥 [Pyspark on Health Insurance Marketplace](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202a/Sepuluh)
 - 🐼 [PySpark as an alternative to Pandas](https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202b/Sepuluh)
 - ✈ [Airline Delay and Cancellation Data 2017 - 2018 (PySpark vs Polars vs Pandas)](https://github.com/drshahizan/Python-big-data/tree/main/Project/Sepuluh)
 - 🥣 [Web Scraping using BeautifulSoup](https://github.com/drshahizan/python-web/tree/main/beautiful-soup/Group%2010)
+
+#### Special Topic in Data Engineering:
+- 🏭 [Data Integration using Microsoft Azure Data Factory](https://github.com/drshahizan/special-topic-data-engineering/tree/main/assignment/data-integration/submission/MichelinStar)
+- 📽️ [Web Scraping The Movie Database](https://github.com/drshahizan/special-topic-data-engineering/tree/main/assignment/API/submission/MichelinStar)
+- 📸 [Web Scraping Malaysia Photo Collection](https://github.com/drshahizan/special-topic-data-engineering/tree/main/assignment/data-scraping/submission/part1/MichelinStar)
+- 📑 [Web Scraping Text Content From Google Scholar](https://github.com/drshahizan/special-topic-data-engineering/tree/main/assignment/data-scraping/submission/part2/MichelinStar)
+- 📱 [Social Network Application](https://github.com/drshahizan/learn-django/tree/main/materials/assignment/submission/MichelinStar)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
